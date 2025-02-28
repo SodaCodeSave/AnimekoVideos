@@ -332,9 +332,9 @@
         "factoryId": "web-selector",
         "version": 2,
         "arguments": {
-          "name": "Selector",
+          "name": "囧次元",
           "description": "",
-          "iconUrl": "",
+          "iconUrl": "https://www.jiongciyuan1.cc/upload/mxprocms/20241012-1/d1f34e75255d2857bcbc6217543e4033.png",
           "searchConfig": {
             "searchUrl": "https://www.jiongciyuan1.cc/index.php/vod/search.html?wd={keyword}",
             "searchUseOnlyFirstWord": true,
